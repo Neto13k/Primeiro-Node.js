@@ -1,0 +1,12 @@
+Olá sou José Hermes estou aprendendo a utilizar o node JS
+StackX
+
+
+
+Numeros a ser somados:
+15
+10
+25
+
+
+
